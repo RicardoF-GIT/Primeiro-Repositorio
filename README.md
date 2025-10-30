@@ -1,1 +1,1 @@
-PRIMEIRO REPOSITORIO
+Repositorio para fins de estudos.
